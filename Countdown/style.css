@@ -401,3 +401,8 @@ body {
     transform: rotate(180deg);
   }
   
+
+.title {
+  font-size: 100pt;
+  font-family: Montserrat;
+}
